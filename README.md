@@ -1,4 +1,4 @@
-# GuiaPraticoGitPDF
+# Guia Pratico Git
 - Use este guia prático da folha de dicas do git para aprimorar seu fluxo de trabalho. 
 - Esta folha de dicas do Git economiza seu tempo quando você simplesmente não consegue lembrar o que é um comando ou não quer usar o git help na linha de comando. 
 - É difícil memorizar todos os comandos importantes do Git de cor, então imprima isso ou salve-o em sua área de trabalho para recorrer quando você ficar preso. 
